@@ -1,63 +1,70 @@
-<div align="center">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Hi, I'm Vishnu S
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0A66C2&height=220&section=header&text=Vishnu%20S&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Cloud%20%26%20AI&descAlignY=58&descSize=18"/>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=DevOps+Engineer;Full+Stack+Developer;Cloud+%7C+AWS+%7C+Docker+%7C+Kubernetes;Building+Scalable+Applications;Always+Learning+Something+New)
 
-<br/>
+<p align="center">
 
-```bash
-vishnu@devops:~$ whoami
-> Full Stack Developer crafting cloud-native systems
-> Currently deploying dreams to AWS EC2 🚀
-> Status: compiling coffee into code ☕
-```
+<a href="https://www.linkedin.com/in/vishnus66/">
+<img src="https://img.shields.io/badge/LinkedIn-Vishnu%20S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<a href="https://www.linkedin.com/in/vishnus66/"><img src="https://img.shields.io/badge/LinkedIn-Vishnu%20S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/vishnu66creator"><img src="https://img.shields.io/badge/GitHub-vishnu66creator-181717?style=for-the-badge&logo=github"/></a>
-<a href="https://vishnu66creator.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-<a href="mailto:vishnuselvaraj.66@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/vishnu66creator">
+<img src="https://img.shields.io/badge/GitHub-vishnu66creator-181717?style=for-the-badge&logo=github"/>
+</a>
 
-</div>
+<a href="https://vishnu66creator.github.io/portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
 
-<br/>
+<a href="mailto:vishnuselvaraj.66@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-## 🧠 `class VishnuS extends Developer`
+</p>
 
-```javascript
-const vishnu = {
-  role: "DevOps Engineer & Full Stack Developer",
-  focus: ["Cloud-Native Apps", "AI Integrations", "Automated Pipelines"],
-  currentGig: "Building production software at Punchbiz",
-  motto: "Build. Automate. Deploy. Repeat. 🚀",
+---
 
-  journey() {
-    return "web dev → cloud computing → DevOps → AI-powered apps";
-  },
+# 👨‍💻 About Me
 
-  dailyDriver() {
-    return ["Docker 🐳", "Kubernetes ☸️", "AWS ☁️", "CI/CD 🔁"];
-  }
-};
-```
+I'm **Vishnu S**, a passionate **DevOps Engineer** and **Full Stack Developer** who enjoys building scalable, cloud-native applications and transforming ideas into production-ready software.
 
-I move ideas across the full stack — from pixel-perfect UIs and secure APIs, to containers shipped and orchestrated in the cloud, with automation stitching every step together. At **Punchbiz**, that meant deploying FastAPI services on EC2, shipping MERN apps, wiring in OpenAI + Gemini, and building dashboards people actually check.
+My journey started with web development and gradually expanded into **Cloud Computing, DevOps, Backend Engineering, and AI-powered applications**. I enjoy working across the complete software development lifecycle—from developing intuitive user interfaces and secure backend APIs to deploying applications with Docker, Kubernetes, and AWS while automating delivery through CI/CD pipelines.
 
-<br/>
+During my internship at **Punchbiz**, I contributed to production-grade software by deploying FastAPI services on AWS EC2, developing MERN applications, integrating AI chatbots using OpenAI and Gemini APIs, and building real-time analytics dashboards.
 
-## 🧭 Where I've Been
+I'm always curious about new technologies and continuously improve my skills by building practical projects that solve real-world problems.
 
-<table>
-<tr>
-<td width="140" align="center">🚀<br/><b>Dec 2025 –<br/>Apr 2026</b></td>
-<td>
+> **"Build. Automate. Deploy. Repeat." 🚀**
 
-**Full Stack Developer Intern** · Punchbiz
-Shipped production MERN apps · Built FastAPI OCR & video pipelines · Deployed to AWS EC2 · Containerized with Docker · Touched Kubernetes deployments · Wired OpenAI & Gemini into live features · JWT auth + RBAC · Analytics dashboards in React & Recharts
+---
 
-</td>
-</tr>
-</table>
+# 💼 Experience
 
-<br/>
+## 🚀 Full Stack Developer Intern
+
+### Punchbiz
+
+**📅 Dec 2025 – Apr 2026**
+
+✔ Developed production-ready MERN applications
+
+✔ Built FastAPI-based OCR & Video Processing APIs
+
+✔ Deployed applications on AWS EC2
+
+✔ Containerized services using Docker
+
+✔ Worked with Kubernetes deployments
+
+✔ Integrated OpenAI & Gemini AI APIs
+
+✔ Implemented JWT Authentication & RBAC
+
+✔ Built Analytics Dashboard using React & Recharts
+
+---
+
+# 🛠 Tech Stack
 
 ## ⚙️ The Stack I Reach For
 
@@ -89,79 +96,78 @@ Shipped production MERN apps · Built FastAPI OCR & video pipelines · Deployed 
 
 </div>
 
-<br/>
+---
 
-## 🗂️ Things I've Shipped
+# 🚀 Featured Projects
 
-<details open>
-<summary><b>🌾 AI Farm App</b> — Smart Agriculture Management Platform</summary>
-<br/>
-
-A production-ready **MERN Stack** app built to help farmers manage livestock through AI-powered insights and cloud infrastructure — JWT auth, a dual AI chatbot (OpenAI + Gemini), FastAPI OCR/video processing, real-time analytics, all deployed on AWS EC2 with Docker.
-
+### 🌾 AI Farm App — Smart Agriculture Management Platform
+A production-ready **MERN Stack** app built during my internship to help farmers manage livestock through AI-powered insights and cloud infrastructure. Features JWT auth, a dual AI chatbot (OpenAI + Gemini), FastAPI OCR/video processing, real-time analytics, and AWS EC2 + Docker deployment.
 `React` `Node.js` `Express` `MongoDB` `FastAPI` `AWS EC2` `Docker` `OpenAI API` `Gemini API`
 
-</details>
+---
 
-<details>
-<summary><b>👩 Women Safety Analysis via CCTV Surveillance</b> — 🏆 Patent Applied (2025)</summary>
-<br/>
-
-An AI surveillance system that watches CCTV feeds in real time, flags suspicious activity around women using CNN-based Computer Vision, and fires off instant alerts.
-
+### 👩 Women Safety Analysis using CCTV Surveillance — 🏆 Patent Applied (2025)
+An AI-powered surveillance system that detects suspicious activity around women in real-time CCTV footage using Computer Vision and CNN-based classification, with instant emergency alerts.
 `Python` `OpenCV` `CNN` `Computer Vision`
 
-</details>
+---
 
-<details>
-<summary><b>🐍 Medusa Chatbot</b> — AI Personal Care Assistant</summary>
-<br/>
-
-A Gemini-powered chatbot dishing out personalized skincare and haircare advice through a clean Streamlit interface.
-
+### 🐍 Medusa Chatbot — AI Personal Care Assistant
+A chatbot delivering personalized skincare and haircare recommendations via Google's Gemini API, wrapped in a clean Streamlit interface.
 `Python` `Streamlit` `Gemini API`
 
-</details>
+---
 
-<details>
-<summary><b>🌐 Personal Portfolio</b></summary>
-<br/>
-
-A responsive developer portfolio showcasing projects, skills, and achievements — smooth animations included.
-
+### 🌐 Personal Portfolio
+A modern, responsive developer portfolio showcasing my projects, skills, experience, and achievements.
 `React` `Tailwind CSS` `JavaScript`
 
-</details>
+---
 
-<br/>
-
-## 🏆 Milestones
-
-<div align="center">
+# 🏆 Achievements
 
 ![Patent](https://img.shields.io/badge/🏅%20Patent-Applied%202025-FFD700?style=for-the-badge)
 ![Internship](https://img.shields.io/badge/💼%20Internship-Punchbiz-success?style=for-the-badge)
 ![AWS](https://img.shields.io/badge/☁️%20Cloud-AWS%20Deployment-orange?style=for-the-badge)
 
-</div>
+---
 
-<br/>
+# 💡 Developer Philosophy
 
-<div align="center">
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=Build+Reliable+Software.;Automate+Everything.;Keep+Learning.;Ship+Real+Projects.;Code+with+Purpose.)
 
-### 💭
+> **"Great software isn't just written—it's engineered, automated, deployed, and continuously improved."**
 
-> *"Great software isn't just written — it's engineered, automated, deployed, and continuously improved."*
+---
 
-<br/>
+# 📫 Let's Connect
 
-<a href="https://www.linkedin.com/in/vishnus66/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/vishnu66creator"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/></a>
-<a href="https://vishnu66creator.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-<a href="mailto:vishnuselvaraj.66@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<p align="center">
 
-<br/><br/>
+<a href="https://www.linkedin.com/in/vishnus66/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00F7FF&height=120&section=footer"/>
+<a href="https://github.com/vishnu66creator">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+</a>
 
-</div>
+<a href="https://vishnu66creator.github.io/portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="mailto:vishnuselvaraj.66@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### 💙 Thanks for visiting my profile!
+
+![Footer](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=1200&color=00F7FF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting!;Let's+build+something+amazing.;Happy+Coding!+🚀)
+
+</p>

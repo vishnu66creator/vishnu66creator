@@ -123,18 +123,6 @@ I'm always curious about new technologies and continuously improve my skills by 
 
 ---
 
-## 🤖 AI & Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=opencv" />
-<img src="https://img.shields.io/badge/CNN-Deep%20Learning-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai"/>
-<img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google"/>
-<img src="https://img.shields.io/badge/Computer_Vision-FF6F00?style=for-the-badge"/>
-</p>
-
----
-
 ## 🛠 Tools
 
 <p>
@@ -148,144 +136,28 @@ I'm always curious about new technologies and continuously improve my skills by 
 
 ---
 
-## 🌱 Currently Learning
-
-- ☸ Kubernetes Advanced Concepts
-- ☁ AWS Cloud Services
-- 🚀 CI/CD Best Practices
-- 🏗 System Design
-- 🔥 Microservices Architecture
-- ⚡ Terraform
-
----
-
 # 🚀 Featured Projects
 
-## 🌾 AI Farm App
-
-### 🚜 Smart Agriculture Management Platform
-
-A production-ready **MERN Stack** application developed during my internship to help farmers manage livestock operations through AI-powered insights and cloud-based infrastructure.
-
-### ✨ Highlights
-
-- 🔐 JWT Authentication & Role-Based Access Control
-- 🤖 Dual AI Chatbot (OpenAI + Gemini)
-- ☁️ FastAPI OCR & Video Processing
-- 📊 Real-Time Analytics Dashboard
-- 🚀 AWS EC2 Deployment
-- 🐳 Dockerized Backend Services
-
-### 🛠 Tech Stack
-
+### 🌾 AI Farm App — Smart Agriculture Management Platform
+A production-ready **MERN Stack** app built during my internship to help farmers manage livestock through AI-powered insights and cloud infrastructure. Features JWT auth, a dual AI chatbot (OpenAI + Gemini), FastAPI OCR/video processing, real-time analytics, and AWS EC2 + Docker deployment.
 `React` `Node.js` `Express` `MongoDB` `FastAPI` `AWS EC2` `Docker` `OpenAI API` `Gemini API`
 
-```text
-                 AI Farm App Architecture
-
- Farmer
-    │
-    ▼
-React Frontend
-    │
-    ▼
-Node.js + Express API
-    │
- ┌──┴───────────────┐
- │                  │
- ▼                  ▼
-MongoDB         FastAPI
-                    │
-          OCR & Video Processing
-                    │
-                    ▼
-          OpenAI + Gemini APIs
-                    │
-                    ▼
-               Smart Responses
-```
-
 ---
 
-## 👩 Women Safety Analysis using CCTV Surveillance
-
-### 🏆 Patent Applied (2025)
-
-An AI-powered surveillance system that detects suspicious activities around women using Computer Vision and Deep Learning.
-
-The system processes CCTV footage in real time, identifies potential threats, and automatically alerts authorities for immediate response.
-
-### Features
-
-- 🎥 Live CCTV Monitoring
-- 👩 Gender Detection
-- 🚨 Suspicious Activity Detection
-- ⚡ Instant Alerts
-- 🧠 CNN-based Classification
-
-### Technologies
-
+### 👩 Women Safety Analysis using CCTV Surveillance — 🏆 Patent Applied (2025)
+An AI-powered surveillance system that detects suspicious activity around women in real-time CCTV footage using Computer Vision and CNN-based classification, with instant emergency alerts.
 `Python` `OpenCV` `CNN` `Computer Vision`
 
-```text
- CCTV Camera
-      │
-      ▼
-Video Frames
-      │
-      ▼
-OpenCV Processing
-      │
-      ▼
-CNN Detection
-      │
-      ▼
-Threat Analysis
-      │
-      ▼
-Emergency Alert
-```
-
 ---
 
-## 🐍 Medusa Chatbot
-
-### 🤖 AI-powered Personal Care Assistant
-
-An intelligent chatbot that provides personalized skincare and haircare recommendations using Google's Gemini API.
-
-The application delivers interactive conversations while generating customized recommendations based on user preferences.
-
-### Features
-
-✔ Personalized Recommendations
-
-✔ Gemini AI Integration
-
-✔ Beautiful Streamlit Interface
-
-✔ Fast Responses
-
-### Technologies
-
+### 🐍 Medusa Chatbot — AI Personal Care Assistant
+A chatbot delivering personalized skincare and haircare recommendations via Google's Gemini API, wrapped in a clean Streamlit interface.
 `Python` `Streamlit` `Gemini API`
 
 ---
 
-## 🌐 Personal Portfolio
-
-A modern developer portfolio showcasing my projects, skills, experience, and achievements.
-
-### Features
-
-- Responsive Design
-- Smooth Animations
-- Project Showcase
-- Contact Form
-- Mobile Friendly
-
-### Technologies
-
+### 🌐 Personal Portfolio
+A modern, responsive developer portfolio showcasing my projects, skills, experience, and achievements.
 `React` `Tailwind CSS` `JavaScript`
 
 ---
@@ -295,51 +167,6 @@ A modern developer portfolio showcasing my projects, skills, experience, and ach
 ![Patent](https://img.shields.io/badge/🏅%20Patent-Applied%202025-FFD700?style=for-the-badge)
 ![Internship](https://img.shields.io/badge/💼%20Internship-Punchbiz-success?style=for-the-badge)
 ![AWS](https://img.shields.io/badge/☁️%20Cloud-AWS%20Deployment-orange?style=for-the-badge)
-
----
-
-# 🎯 Career Goals
-
-### 🚀 Short-Term Goals
-
-- Become a Professional DevOps Engineer
-- Master Kubernetes
-- Learn Advanced AWS Services
-- Contribute to Open Source
-- Build Production-Ready SaaS Products
-
----
-
-### 🌍 Long-Term Goals
-
-- Cloud Solutions Architect
-- Platform Engineer
-- DevOps Consultant
-- Build My Own SaaS Startup
-
----
-
-# 📚 Learning Roadmap
-
-```text
-✔ Git
-      ↓
-✔ Docker
-      ↓
-✔ AWS
-      ↓
-✔ Jenkins
-      ↓
-✔ Kubernetes
-      ↓
-✔ CI/CD
-      ↓
-🔄 Terraform
-      ↓
-🔄 Microservices
-      ↓
-🔄 System Design
-```
 
 ---
 

@@ -1,211 +1,167 @@
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Hi, I'm Vishnu S
+<div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=DevOps+Engineer;Full+Stack+Developer;Cloud+%7C+AWS+%7C+Docker+%7C+Kubernetes;Building+Scalable+Applications;Always+Learning+Something+New)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0A66C2&height=220&section=header&text=Vishnu%20S&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Cloud%20%26%20AI&descAlignY=58&descSize=18"/>
 
-<p align="center">
+<br/>
 
-<a href="https://www.linkedin.com/in/vishnus66/">
-<img src="https://img.shields.io/badge/LinkedIn-Vishnu%20S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+```bash
+vishnu@devops:~$ whoami
+> Full Stack Developer crafting cloud-native systems
+> Currently deploying dreams to AWS EC2 🚀
+> Status: compiling coffee into code ☕
+```
 
-<a href="https://github.com/vishnu66creator">
-<img src="https://img.shields.io/badge/GitHub-vishnu66creator-181717?style=for-the-badge&logo=github"/>
-</a>
+<a href="https://www.linkedin.com/in/vishnus66/"><img src="https://img.shields.io/badge/LinkedIn-Vishnu%20S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/vishnu66creator"><img src="https://img.shields.io/badge/GitHub-vishnu66creator-181717?style=for-the-badge&logo=github"/></a>
+<a href="https://vishnu66creator.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+<a href="mailto:vishnuselvaraj.66@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<a href="https://vishnu66creator.github.io/portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
+</div>
 
-<a href="mailto:vishnuselvaraj.66@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<br/>
 
-</p>
+## 🧠 `class VishnuS extends Developer`
 
----
+```javascript
+const vishnu = {
+  role: "DevOps Engineer & Full Stack Developer",
+  focus: ["Cloud-Native Apps", "AI Integrations", "Automated Pipelines"],
+  currentGig: "Building production software at Punchbiz",
+  motto: "Build. Automate. Deploy. Repeat. 🚀",
 
-# 👨‍💻 About Me
+  journey() {
+    return "web dev → cloud computing → DevOps → AI-powered apps";
+  },
 
-I'm **Vishnu S**, a passionate **DevOps Engineer** and **Full Stack Developer** who enjoys building scalable, cloud-native applications and transforming ideas into production-ready software.
+  dailyDriver() {
+    return ["Docker 🐳", "Kubernetes ☸️", "AWS ☁️", "CI/CD 🔁"];
+  }
+};
+```
 
-My journey started with web development and gradually expanded into **Cloud Computing, DevOps, Backend Engineering, and AI-powered applications**. I enjoy working across the complete software development lifecycle—from developing intuitive user interfaces and secure backend APIs to deploying applications with Docker, Kubernetes, and AWS while automating delivery through CI/CD pipelines.
+I move ideas across the full stack — from pixel-perfect UIs and secure APIs, to containers shipped and orchestrated in the cloud, with automation stitching every step together. At **Punchbiz**, that meant deploying FastAPI services on EC2, shipping MERN apps, wiring in OpenAI + Gemini, and building dashboards people actually check.
 
-During my internship at **Punchbiz**, I contributed to production-grade software by deploying FastAPI services on AWS EC2, developing MERN applications, integrating AI chatbots using OpenAI and Gemini APIs, and building real-time analytics dashboards.
+<br/>
 
-I'm always curious about new technologies and continuously improve my skills by building practical projects that solve real-world problems.
+## 🧭 Where I've Been
 
-> **"Build. Automate. Deploy. Repeat." 🚀**
+<table>
+<tr>
+<td width="140" align="center">🚀<br/><b>Dec 2025 –<br/>Apr 2026</b></td>
+<td>
 
----
+**Full Stack Developer Intern** · Punchbiz
+Shipped production MERN apps · Built FastAPI OCR & video pipelines · Deployed to AWS EC2 · Containerized with Docker · Touched Kubernetes deployments · Wired OpenAI & Gemini into live features · JWT auth + RBAC · Analytics dashboards in React & Recharts
 
-# 💼 Experience
+</td>
+</tr>
+</table>
 
-## 🚀 Full Stack Developer Intern
+<br/>
 
-### Punchbiz
+## ⚙️ The Stack I Reach For
 
-**📅 Dec 2025 – Apr 2026**
+<div align="center">
 
-✔ Developed production-ready MERN applications
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,c" />
 
-✔ Built FastAPI-based OCR & Video Processing APIs
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
 
-✔ Deployed applications on AWS EC2
+**Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
 
-✔ Containerized services using Docker
+**Database**
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 
-✔ Worked with Kubernetes deployments
+**DevOps & Cloud**
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,linux,git,github,nginx" />
 
-✔ Integrated OpenAI & Gemini AI APIs
+**Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=vscode,postman,eclipse,github,npm,bash" />
 
-✔ Implemented JWT Authentication & RBAC
+</div>
 
-✔ Built Analytics Dashboard using React & Recharts
+<br/>
 
----
+## 🗂️ Things I've Shipped
 
-# 🛠 Tech Stack
+<details open>
+<summary><b>🌾 AI Farm App</b> — Smart Agriculture Management Platform</summary>
+<br/>
 
-## 💻 Programming Languages
+A production-ready **MERN Stack** app built to help farmers manage livestock through AI-powered insights and cloud infrastructure — JWT auth, a dual AI chatbot (OpenAI + Gemini), FastAPI OCR/video processing, real-time analytics, all deployed on AWS EC2 with Docker.
 
-<p>
-<img src="https://skillicons.dev/icons?i=java" />
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=js" />
-<img src="https://skillicons.dev/icons?i=ts" />
-<img src="https://skillicons.dev/icons?i=c" />
-</p>
-
----
-
-## 🎨 Frontend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=react" />
-<img src="https://skillicons.dev/icons?i=html" />
-<img src="https://skillicons.dev/icons?i=css" />
-<img src="https://skillicons.dev/icons?i=tailwind" />
-</p>
-
----
-
-## ⚙️ Backend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs" />
-<img src="https://skillicons.dev/icons?i=express" />
-<img src="https://skillicons.dev/icons?i=fastapi" />
-</p>
-
----
-
-## 🗄 Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb" />
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
----
-
-## ☁️ DevOps & Cloud
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws" />
-<img src="https://skillicons.dev/icons?i=docker" />
-<img src="https://skillicons.dev/icons?i=kubernetes" />
-<img src="https://skillicons.dev/icons?i=jenkins" />
-<img src="https://skillicons.dev/icons?i=linux" />
-<img src="https://skillicons.dev/icons?i=git" />
-<img src="https://skillicons.dev/icons?i=github" />
-<img src="https://skillicons.dev/icons?i=nginx" />
-</p>
-
----
-
-## 🛠 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=vscode" />
-<img src="https://skillicons.dev/icons?i=postman" />
-<img src="https://skillicons.dev/icons?i=eclipse" />
-<img src="https://skillicons.dev/icons?i=github" />
-<img src="https://skillicons.dev/icons?i=npm" />
-<img src="https://skillicons.dev/icons?i=bash" />
-</p>
-
----
-
-# 🚀 Featured Projects
-
-### 🌾 AI Farm App — Smart Agriculture Management Platform
-A production-ready **MERN Stack** app built during my internship to help farmers manage livestock through AI-powered insights and cloud infrastructure. Features JWT auth, a dual AI chatbot (OpenAI + Gemini), FastAPI OCR/video processing, real-time analytics, and AWS EC2 + Docker deployment.
 `React` `Node.js` `Express` `MongoDB` `FastAPI` `AWS EC2` `Docker` `OpenAI API` `Gemini API`
 
----
+</details>
 
-### 👩 Women Safety Analysis using CCTV Surveillance — 🏆 Patent Applied (2025)
-An AI-powered surveillance system that detects suspicious activity around women in real-time CCTV footage using Computer Vision and CNN-based classification, with instant emergency alerts.
+<details>
+<summary><b>👩 Women Safety Analysis via CCTV Surveillance</b> — 🏆 Patent Applied (2025)</summary>
+<br/>
+
+An AI surveillance system that watches CCTV feeds in real time, flags suspicious activity around women using CNN-based Computer Vision, and fires off instant alerts.
+
 `Python` `OpenCV` `CNN` `Computer Vision`
 
----
+</details>
 
-### 🐍 Medusa Chatbot — AI Personal Care Assistant
-A chatbot delivering personalized skincare and haircare recommendations via Google's Gemini API, wrapped in a clean Streamlit interface.
+<details>
+<summary><b>🐍 Medusa Chatbot</b> — AI Personal Care Assistant</summary>
+<br/>
+
+A Gemini-powered chatbot dishing out personalized skincare and haircare advice through a clean Streamlit interface.
+
 `Python` `Streamlit` `Gemini API`
 
----
+</details>
 
-### 🌐 Personal Portfolio
-A modern, responsive developer portfolio showcasing my projects, skills, experience, and achievements.
+<details>
+<summary><b>🌐 Personal Portfolio</b></summary>
+<br/>
+
+A responsive developer portfolio showcasing projects, skills, and achievements — smooth animations included.
+
 `React` `Tailwind CSS` `JavaScript`
 
----
+</details>
 
-# 🏆 Achievements
+<br/>
+
+## 🏆 Milestones
+
+<div align="center">
 
 ![Patent](https://img.shields.io/badge/🏅%20Patent-Applied%202025-FFD700?style=for-the-badge)
 ![Internship](https://img.shields.io/badge/💼%20Internship-Punchbiz-success?style=for-the-badge)
 ![AWS](https://img.shields.io/badge/☁️%20Cloud-AWS%20Deployment-orange?style=for-the-badge)
 
----
+</div>
 
-# 💡 Developer Philosophy
+<br/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=Build+Reliable+Software.;Automate+Everything.;Keep+Learning.;Ship+Real+Projects.;Code+with+Purpose.)
+<div align="center">
 
-> **"Great software isn't just written—it's engineered, automated, deployed, and continuously improved."**
+### 💭
 
----
+> *"Great software isn't just written — it's engineered, automated, deployed, and continuously improved."*
 
-# 📫 Let's Connect
+<br/>
 
-<p align="center">
+<a href="https://www.linkedin.com/in/vishnus66/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/vishnu66creator"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/></a>
+<a href="https://vishnu66creator.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+<a href="mailto:vishnuselvaraj.66@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<a href="https://www.linkedin.com/in/vishnus66/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<br/><br/>
 
-<a href="https://github.com/vishnu66creator">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00F7FF&height=120&section=footer"/>
 
-<a href="https://vishnu66creator.github.io/portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
-<a href="mailto:vishnuselvaraj.66@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-### 💙 Thanks for visiting my profile!
-
-![Footer](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=1200&color=00F7FF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting!;Let's+build+something+amazing.;Happy+Coding!+🚀)
-
-</p>
+</div>
